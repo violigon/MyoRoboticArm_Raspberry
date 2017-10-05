@@ -4,8 +4,6 @@
 
 	Edited by Fernando Cosentino
 		http://www.fernandocosentino.net/pyoconnect
-	Edited 2 by Vinícius Oliveira Gonçalves and Paulo Salvatore	
-	
 '''
 
 
