@@ -4,6 +4,8 @@
 
 	Edited by Fernando Cosentino
 		http://www.fernandocosentino.net/pyoconnect
+		
+		Edited by Violigon
 '''
 
 
